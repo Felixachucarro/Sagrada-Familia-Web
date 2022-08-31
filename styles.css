@@ -1,0 +1,109 @@
+body{
+    display: box;
+    font-family: 'Aboreto', cursive;
+    /* background-color: rgb(130, 189, 252); */
+    background-image: url('1000_F_482527632_lpjb4W0UjYY9fTEsIzPq6c9IRYzInCbg.jpg');
+    background-size: 10%;
+
+}
+
+.elote{
+    
+}
+
+.elote img{
+    height: 650px;
+    width: auto;
+    display: grid;
+    justify-content: center;
+    margin-left: 3cm;
+    margin-right: auto;
+    position: absolute;
+    z-index: -4;
+    
+}
+
+.elote1 img{
+    height: 600px;
+    width: auto;
+    display: grid;
+    justify-content: center;
+    margin-left: 4cm;
+    margin-right: auto;
+    margin-top: -7mm;
+    position: absolute;
+    z-index: 3;
+}
+
+.elote3 {
+    
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-left: 450px;
+    margin-top: 2cm;
+    position: absolute;
+    z-index: 3;
+    color: #fff;
+    
+    
+}
+
+.elote3 h1{
+    font-size: 3cm;
+    font-family: 'Aboreto', cursive;
+    text-shadow: 3px 2px rgba(40, 40, 40, 0.256);
+    margin-top: 12mm;
+    z-index: -6;
+}
+
+body img{
+    height: 10%;
+    width: 5%;
+    font-family: 'Aboreto', cursive;
+
+}
+.e img{
+    
+    max-width: 100%;
+    max-height: auto;
+}
+
+
+body text{
+    font-family: 'Aboreto', cursive;
+    font-size: large;
+}
+
+
+
+.navbar{
+    display: grid;
+    justify-content: flex-start;
+    font-family: 'Aboreto', cursive;
+     }
+
+
+
+.Sagrado-renglon-de-jesus{
+    margin-top: 0cm;
+    border-radius: 1cm;
+    background-color: #fff;
+    text-align: center;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    box-shadow:   6px 5px 6px rgba(0, 0, 0, 0.144);
+    position: absolute;
+    z-index: 1;
+     font-family: 'Aboreto', cursive;
+}
+
+.Sagrado-renglon-de-jesus img{
+    margin: auto;
+    margin-top: 2cm;
+    height: 400px;
+    width: auto;
+    border-radius: 1cm;
+}
